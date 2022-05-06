@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": false,
+    // "strict": true,
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "ESNext"
+    ]
+  }
+}
